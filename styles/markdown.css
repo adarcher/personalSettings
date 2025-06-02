@@ -6,13 +6,11 @@
 h1 {
   font-weight: var(--base-text-weight-semibold, 600);
   font-size: 2em;
-  break-after: page;
-  break-before: page;
 }
 
-h2 {
+/* h2 {
   break-before: page;
-}
+} */
 
 h1,
 h2,
